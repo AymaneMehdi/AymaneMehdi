@@ -1,3 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Aymane+Mehdi)](https://git.io/typing-svg)
+<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AymaneMehdi&theme=react&hide_border=true&border_radius=15&card_width=500)](https://git.io/streak-stats)
