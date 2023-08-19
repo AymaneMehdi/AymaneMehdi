@@ -11,7 +11,7 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br>
+<br><br><br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AymaneMehdi&theme=react)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AymaneMehdi&theme=react&hide_border=true&border_radius=15&card_width=700)](https://git.io/streak-stats)
