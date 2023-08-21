@@ -12,3 +12,5 @@
 <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AymaneMehdi&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AymaneMehdi&theme=react&utcOffset=8)
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aymanemehdi&theme=react)
