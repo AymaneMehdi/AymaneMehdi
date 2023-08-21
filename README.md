@@ -5,7 +5,7 @@
 <br><br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AymaneMehdi&theme=react)
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AymaneMehdi&theme=react&hide_border=true&border_radius=6&card_width=720)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AymaneMehdi&theme=react&hide_border=true&border_radius=4&card_width=700)](https://git.io/streak-stats)
 <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AymaneMehdi&theme=react )
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AymaneMehdi&theme=react)
