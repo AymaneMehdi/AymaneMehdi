@@ -23,3 +23,5 @@ MERN Stack Developer. ( React.js - Node.js - Express.js - MongoDB - Next.js - Re
 <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AymaneMehdi&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AymaneMehdi&theme=react&utcOffset=8)
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=aymanemehdi&theme=react&hide_border=true&border_radius=15&card_width=1000)](https://git.io/streak-stats)
