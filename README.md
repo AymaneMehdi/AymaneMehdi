@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F7F7F7&width=400&height=80&lines=Aymane+Mehdi)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=435&lines=Aymane+Mehdi)](https://git.io/typing-svg)<br>
 **`Aymane Mehdi (Software Engineer | Full Stack Web Developer | MERN Stack Developer.)`** 
 <br><br>
@@ -13,5 +12,3 @@
 <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AymaneMehdi&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AymaneMehdi&theme=react&utcOffset=8)
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=aymanemehdi&theme=react&hide_border=true&border_radius=15&card_width=1000)](https://git.io/streak-stats)
