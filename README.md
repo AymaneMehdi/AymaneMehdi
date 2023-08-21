@@ -16,7 +16,7 @@ MERN Stack Developer. ( React.js - Node.js - Express.js - MongoDB - Next.js - Re
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br><br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AymaneMehdi&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AymaneMehdi&theme=react&border_radius=15&card_width=1000)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AymaneMehdi&theme=react&hide_border=true&border_radius=15&card_width=1000)](https://git.io/streak-stats)
 <br>
