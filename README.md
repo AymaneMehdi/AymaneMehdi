@@ -3,7 +3,7 @@
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=github,html,css,js,react,redux,jest,nextjs,sass,linux,nodejs,express,vscode,xd,postman,webpack,vercel,mongodb,codepen,graphql,figma,visualstudio,ts,stackoverflow,c,cs,cpp,bootstrap,babel,dotnet,mysql,&perline=13)](https://skillicons.dev)
 <br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AymaneMehdi&theme=react&hide_border=true&border_radius=4&card_width=680)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AymaneMehdi&theme=react&hide_border=true&border_radius=4&card_width=690)](https://git.io/streak-stats)
 <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AymaneMehdi&theme=react )
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AymaneMehdi&theme=react)
