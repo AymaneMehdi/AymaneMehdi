@@ -11,4 +11,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AymaneMehdi&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AymaneMehdi&theme=react&utcOffset=8)
 <br>
-[Create a Web Application With Reactjs.pdf](https://github.com/AymaneMehdi/AymaneMehdi/files/12411232/Create.a.Web.Application.With.Reactjs.pdf)
+![Create a Web Application With Reactjs_page-0001](https://github.com/AymaneMehdi/AymaneMehdi/assets/119676798/96c14f09-0dcf-45e3-88cc-bdf8c904b42f)
+![CertificateOfCompletion_React Authentication_page-0001](https://github.com/AymaneMehdi/AymaneMehdi/assets/119676798/716df7c0-55d7-43af-9d65-6e56966cd953)
+![Office Excel 2016_page-0001](https://github.com/AymaneMehdi/AymaneMehdi/assets/119676798/0c8d138c-ab55-4e85-ab2b-bf2e2b787567)
