@@ -11,4 +11,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AymaneMehdi&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AymaneMehdi&theme=react&utcOffset=8)
 <br>
-<img src="https://github.com/AymaneMehdi/AymaneMehdi/assets/119676798/96c14f09-0dcf-45e3-88cc-bdf8c904b42f" alt="Image Description" width="300"/>
